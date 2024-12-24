@@ -1,4 +1,5 @@
-![MasterHead](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-53056.jpg?t=st=1735067575~exp=1735071175~hmac=cadc1a0379a0b81e3856e3e8713fbffbadc42b1e91acc159c933af245872d586&w=1480)
+<!-- ![MasterHead](https://img.freepik.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-53056.jpg?t=st=1735067575~exp=1735071175~hmac=cadc1a0379a0b81e3856e3e8713fbffbadc42b1e91acc159c933af245872d586&w=1480) -->
+
 
 <h1 align="center">Hi 👋, I'm Md. Mubasshir Naib</h1>
 <h3 align="center">CSE Undergrad (Final Year) | Committed to Excellence in Full Stack Development | Avid Competitive Programmer</h3>
