@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md. Mubasshir Naib</h1>
 <h3 align="center">CSE Undergrad (Final Year) | Committed to Excellence in Full Stack Development | Avid Competitive Programmer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://outlane.co/wp-content/uploads/2017/10/avatar-2.png">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mubasshirnaib&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
