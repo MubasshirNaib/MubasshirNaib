@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md. Mubasshir Naib</h1>
-<h3 align="center">CSE Undergrad (Final Year) | Committed to Excellence in Full Stack Development | Avid Competitive Programmer</h3>
+<h3 align="center">CSE Undergrad (Final Year) | Committed to Excellence in Full Stack Development | Competitive Programmer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
