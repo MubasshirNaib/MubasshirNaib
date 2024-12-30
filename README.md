@@ -19,6 +19,7 @@
 ---
 
 - 🌱 **I’m currently learning**: **ASP.NET Core**
+- 📫 How to reach me **u1904089@student.cuet.ac.bd**
 
 ---
 
