@@ -19,7 +19,7 @@
 ---
 
 - 🌱 **I’m currently learning**: **ASP.NET Core**
-- 🔭 Ongoing Project [Employee Task Management System ](https://github.com/Arghya-n/Employee_Management_System)
+- 🔭 Ongoing Project [Learnathon-By-Greeky-Solutions ](https://github.com/Learnathon-By-Geeky-Solutions/dev-4545)
 - 📫 Email **u1904089@student.cuet.ac.bd**
 
 ---
